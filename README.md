@@ -25,5 +25,6 @@ conda create --name py37 python==3.7
 ```
 # Frida
 ```
-pip install frida==14.2.13 && pip install frida-tools==9.2.1
+pip install frida==14.2.13
+pip install frida-tools==9.2.1
 ```
