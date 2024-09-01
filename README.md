@@ -18,3 +18,8 @@ Preferences for vsCode with Cmder, burpSuite, proxy, etc.
     "terminal.integrated.defaultProfile.windows": "Cmder"
 }
 ```
+# 시스템 환경 변수
+```
+//아나콘다
+C:\ProgramData\anaconda3\Scripts\
+```
