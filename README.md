@@ -2,7 +2,8 @@
 Preferences for vsCode with Cmder, burpSuite, proxy, etc.
 
 # vscode with cmder
-```settings
+```
+// vscode > 설정 > settings.json
 {
     "workbench.colorTheme": "Default Light Modern",
     "terminal.integrated.profiles.windows": {
