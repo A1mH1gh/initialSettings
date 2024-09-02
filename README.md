@@ -1,7 +1,7 @@
 # initialSettings
 Preferences for vsCode with Cmder, burpSuite, proxy, etc.
 
-# vscode with cmder
+# vscode
 ```
 // vscode > 설정 > settings.json
 {
@@ -17,6 +17,15 @@ Preferences for vsCode with Cmder, burpSuite, proxy, etc.
     },
     "terminal.integrated.defaultProfile.windows": "Cmder"
 }
+
+// vscode > 설정 > keybindings.json (Beautify 설치된 상태)
+[
+    {
+        "key": "alt+shift+f",
+        "command": "HookyQR.beautify",
+        "when": "editorFocus"
+    }
+]
 ```
 # Anaconda
 ```
