@@ -5,7 +5,8 @@ Preferences for vsCode with Cmder, burpSuite, proxy, etc.
 ```
 // vscode > 설정 > settings.json
 {
-    "workbench.colorTheme": "Default Light Modern",
+    "workbench.colorTheme": "Visual Studio 2017 Light - C++",
+    "workbench.activityBar.location": "hidden",
     "terminal.integrated.profiles.windows": {
         "Cmder": {
             "path": "${env:windir}\\System32\\cmd.exe",
@@ -15,7 +16,9 @@ Preferences for vsCode with Cmder, burpSuite, proxy, etc.
             ]
         }
     },
-    "terminal.integrated.defaultProfile.windows": "Cmder"
+    "terminal.integrated.defaultProfile.windows": "Cmder",
+    "git.ignoreMissingGitWarning": true,
+    "workbench.statusBar.visible": false
 }
 
 // vscode > 설정 > keybindings.json (Beautify 설치된 상태)
