@@ -40,3 +40,12 @@ conda create --name py37 python==3.7
 pip install frida==14.2.13
 pip install frida-tools==9.2.1
 ```
+# Docker
+```
+CMD(관리자)> dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+CMD(관리자)> dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+Microsoft Store에서 Ubuntu 설치하기
+https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
+wsl -l -v
+https://docs.docker.com/desktop/install/windows-install/
+```
