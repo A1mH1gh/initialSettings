@@ -59,4 +59,5 @@ localhost
 *naver*
 *chatgpt.com*
 *ucloud.lguplus.co.kr*
+*github*
 ```
