@@ -49,3 +49,14 @@ https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
 wsl -l -v
 https://docs.docker.com/desktop/install/windows-install/
 ```
+
+# Proxy Bypass List
+```
+127.0.0.1
+::1
+localhost
+*google*
+*naver*
+*chatgpt.com*
+*ucloud.lguplus.co.kr*
+```
