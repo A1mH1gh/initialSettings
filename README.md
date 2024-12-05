@@ -3,7 +3,7 @@ Preferences for vsCode with Cmder, burpSuite, proxy, etc.
 
 # vscode
 ```
-// vscode > 설정 > settings.json
+// vscode > 설정(톱니바퀴) > settings.json
 {
     "workbench.colorTheme": "Visual Studio 2017 Light - C++",
     "workbench.activityBar.location": "hidden",
