@@ -60,4 +60,8 @@ localhost
 *chatgpt.com*
 *ucloud.lguplus.co.kr*
 *github*
+*bing.com
+*momentumdash.com
+*posthog.com
+*gvt2.com*
 ```
