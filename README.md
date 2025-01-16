@@ -64,6 +64,9 @@ localhost
 *momentumdash.com
 *posthog.com
 *gvt2.com*
+*jwt.io*
+*notion*
+*cdn.oaistatic.com*
 ```
 
 # .png, css, gif, woff2, woff를 제외하는 정규식은?
