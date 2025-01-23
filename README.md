@@ -76,6 +76,6 @@ Network 탭을 열고 Filter 입력란에 아래 정규식을 입력합니다.
 
 ruby
 코드 복사
-/^((?!\.(png|css|gif|woff2?|woff)$).)*$/
+/^((?!\.(png|css|gif|woff2?|ico|svg|jpg|woff)$).)*$/
 Enter를 누르면, .png, .css, .gif, .woff2, .woff 확장자를 제외한 요청들만 표시됩니다.
 ```
