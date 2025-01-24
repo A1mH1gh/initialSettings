@@ -67,6 +67,12 @@ localhost
 *jwt.io*
 *notion*
 *cdn.oaistatic.com*
+*facebook*
+*gstatic.com
+browser-intake-datadoghq.com
+l.clarity.ms
+*sharepoint*
+*microsoftonline*
 ```
 
 # .png, css, gif, woff2, woff를 제외하는 정규식은?
