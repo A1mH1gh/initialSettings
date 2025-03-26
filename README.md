@@ -73,6 +73,7 @@ browser-intake-datadoghq.com
 l.clarity.ms
 *sharepoint*
 *microsoftonline*
+*ip-api.com*
 ```
 
 # .png, css, gif, woff2, woff를 제외하는 정규식은?
