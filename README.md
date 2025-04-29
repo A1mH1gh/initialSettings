@@ -78,11 +78,5 @@ l.clarity.ms
 
 # .png, css, gif, woff2, woff를 제외하는 정규식은?
 ```
-🔍 1. 브라우저 개발자 도구 (Network 탭)에서 사용하기
-Network 탭을 열고 Filter 입력란에 아래 정규식을 입력합니다.
-
-ruby
-코드 복사
 /^((?!\/?(dom\.js|js\.js)|\.(png|css|gif|woff2?|ico|svg|jpg|woff)$).)*$/
-Enter를 누르면, .png, .css, .gif, .woff2, .woff 확장자를 제외한 요청들만 표시됩니다. (dom.js 와 js.js 파일 제외 추가)
 ```
